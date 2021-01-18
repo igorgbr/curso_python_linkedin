@@ -1,0 +1,1 @@
+print("O primeiro nome é: ", primeiroNome[0].firstChild.nodeValue)

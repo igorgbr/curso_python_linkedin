@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<person>
+    <firstname>Igor</firstname>
+    <lastname<Giamoniano</lastname>
+    <skill name="MongoDB" />
+    <skill name="MySQL" />
+    <skill name="Python" />
+    <skill name="Javascript" />
+</person>
